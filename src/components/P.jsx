@@ -1,6 +1,6 @@
 export default function P({ children }) {
 	return (
-		<p className="mt-3 text-lg tracking-wider text-stone-200 ">
+		<p className="text-md mx-auto mt-3 w-[90%] tracking-wider text-stone-200 sm:text-lg">
 			{children}
 		</p>
 	);
