@@ -6,7 +6,7 @@ import Footer from "./components/sections/Footer";
 
 export default function App() {
 	return (
-		<main className="">
+		<main className="h-full">
 			<Hero />
 
 			<WebDevSection />
