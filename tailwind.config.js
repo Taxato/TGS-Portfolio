@@ -4,7 +4,7 @@ export default {
 	theme: {
 		extend: {
 			height: {
-				screen: "100svh",
+				screen: "100vh",
 			},
 		},
 		fontFamily: {
